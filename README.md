@@ -16,5 +16,12 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
   * In an nutshell, drag and drop them into your Stencils folder.
   * See further details from [Omnigraffle](https://www.graffletopia.com/install#mac).
 
+## Tips
+  * All icons are the same size with 8 magnets.
+  * When connecting via lines, I'd recommend:
+    * Set a stroke on the icons, perhaps a light gray.
+    * Add a bit of shadow.
+    * Create a text object, align and center below if text is desired.
+
 ## Disclaimer
 Amazon created these icons, not I. All credit is theirs. I just did cleanup and created Omnigraffle stencils for the benefit of all.
