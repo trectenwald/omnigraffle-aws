@@ -14,7 +14,7 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
 
 ## Installation
   * In an nutshell, drag and drop them into your Stencils folder.
-  * See further details from [Omnigraffle](https://www.graffletopia.com/install#mac)
+  * See further details from [Omnigraffle](https://www.graffletopia.com/install#mac).
 
 ## Disclaimer
-Amazon created these icons, not I. All credit for that goes to them. I just cleaned up some stuff and created stencils out of them for Omnigraffle for the benefit of all.
+Amazon created these icons, not I. All credit is theirs. I just did cleanup and created Omnigraffle stencils for the benefit of all.
