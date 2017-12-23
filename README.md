@@ -2,7 +2,7 @@
 Omnigraffle stencils using AWS Simple Icons.
 
 ## Overview
-I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https://aws.amazon.com/architecture/icons/). However many seem out of date or disorganized. This is my attempt at creating stencils that I'll continually update. The first upload stencils are based off of AWS Simple Icons downloaded in November 2017.
+I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https://aws.amazon.com/architecture/icons/). However many seem out of date or disorganized. This is my attempt at creating stencils that I'll continually update. The first stencils are based off of AWS Simple Icons downloaded in November 2017.
 
 ## Details
 
@@ -14,7 +14,7 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
   * Groups were imported from the AWS Visio pack.
 
 ## Installation
-  * In an nutshell, drag and drop them into your Stencils folder.
+  * In a nutshell, drag and drop them into your Stencils folder.
   * See further details from [Omnigraffle](https://www.graffletopia.com/install#mac).
 
 ## Tips
@@ -27,4 +27,4 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
 ![example](https://github.com/trectenwald/omnigraffle-aws/blob/master/example.png)
 
 ## Disclaimer
-Amazon created these icons, not I. All credit is theirs. I just did cleanup and created Omnigraffle stencils for the benefit of all.
+Amazon created the icons that these stencils are based off of. Credit goes to them!
