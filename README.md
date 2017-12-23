@@ -2,7 +2,7 @@
 Omnigraffle stencils using AWS Simple Icons.
 
 ## Overview
-I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https://aws.amazon.com/architecture/icons/). However many seem out of date or disorganized. This is my attempt at creating stencils that I'll continually update. The first stencils are based off of AWS Simple Icons downloaded in November 2017.
+I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https://aws.amazon.com/architecture/icons/). However many seem out of date or disorganized. This is my attempt at creating stencils that I'll continually update. The first stencils are based off of AWS Simple Icons version **17.10.18**.
 
 ## Details
 
