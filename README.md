@@ -11,6 +11,7 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
   * Removed duplicates when found.
   * Each area has is its own stencil.
   * Object names match AWS Simple Icons file names.
+  * Groups were imported from the AWS Visio pack.
 
 ## Installation
   * In an nutshell, drag and drop them into your Stencils folder.
