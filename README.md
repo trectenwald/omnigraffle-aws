@@ -24,5 +24,7 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
     * Add a bit of shadow.
     * Create a text object, align and center below if text is desired.
 
+[example]: https://github.com/trectenwald/omnigraffle-aws/blob/master/example.png "Example"
+
 ## Disclaimer
 Amazon created these icons, not I. All credit is theirs. I just did cleanup and created Omnigraffle stencils for the benefit of all.
