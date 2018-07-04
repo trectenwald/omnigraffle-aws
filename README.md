@@ -14,8 +14,9 @@ I've found many stencils for Omnigraffle based off of [AWS Simple Icons](https:/
   * Groups were imported from the AWS Visio pack.
 
 ## Installation
-  * In a nutshell, drag and drop them into your Stencils folder.
-  * See further details from [Omnigraffle](https://www.graffletopia.com/install#mac).
+  * Clone this repository:
+  * Drag and drop the `AWS` directory into your `Stencils` folder.
+    * See further details from [Omnigraffle](https://www.graffletopia.com/install#mac).
 
 ## Tips
   * All icons are the same size with 8 magnets.
